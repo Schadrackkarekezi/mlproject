@@ -20,5 +20,4 @@ pip install -r requirements.txt
 python src/components/data_ingestion.py   # train & generate artifacts
 python application.py                     # start web app
 
-
-##Open: http://localhost:5000
+Open: http://localhost:5000
