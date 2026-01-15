@@ -21,4 +21,4 @@ python src/components/data_ingestion.py   # train & generate artifacts
 python application.py                     # start web app
 
 
-
+##Open: http://localhost:5000
